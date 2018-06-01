@@ -1,0 +1,7 @@
+git submodule add --name iot-cloud https://github.com/iot-playground/EasyIoT-Cloud.git node-mcu-easy-iot-cloud/libraries/EIoTCloudRestApiV1.0
+
+
+
+git submodule add --name iot-cloud https://github.com/iot-playground/EasyIoT-Cloud.git ~/Documents/Arduino/libraries
+
+git clone https://github.com/iot-playground/EasyIoT-Cloud.git ~/Documents/Arduino/libraries/EIoTCloudRestApiV1.0
