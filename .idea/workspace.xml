@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bd97646-e735-4cf2-848d-722e7d3877aa" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/light-sensor/assests/board_setup.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/light-sensor/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/light-sensor/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
@@ -17,31 +19,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/light-sensor/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="337">
-                <caret line="69" column="20" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitmodules" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitmodules">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="node-mcu-easy-iot-cloud.ino" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/light-sensor/node-mcu-easy-iot-cloud/node-mcu-easy-iot-cloud.ino">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="43" column="38" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="43" selection-end-column="38" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -62,8 +58,8 @@
         <option value="$PROJECT_DIR$/.gitmodules" />
         <option value="$PROJECT_DIR$/scratch.local" />
         <option value="$PROJECT_DIR$/light-sensor/get-libs.sh" />
-        <option value="$PROJECT_DIR$/light-sensor/readme.md" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/light-sensor/readme.md" />
       </list>
     </option>
   </component>
@@ -98,7 +94,18 @@
             <path>
               <item name="esp8266-wifi-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="esp8266-wifi-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esp8266-wifi-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esp8266-wifi-projects" type="462c0819:PsiDirectoryNode" />
               <item name="light-sensor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esp8266-wifi-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esp8266-wifi-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="light-sensor" type="462c0819:PsiDirectoryNode" />
+              <item name="node-mcu-easy-iot-cloud" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -114,6 +121,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/light-sensor/assests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -193,12 +208,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527837280296</updated>
-      <workItem from="1527837282307" duration="5692000" />
+      <workItem from="1527837282307" duration="6719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5692000" />
+    <option name="totallyTimeSpent" value="6719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="832" extended-state="6" />
@@ -214,7 +229,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3292517" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3292517" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20386267" />
@@ -240,13 +255,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/light-sensor/assets/Arduino_node_mcu_config.png">
+    <entry file="file://$PROJECT_DIR$/assets/Arduino_node_mcu_config.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/light-sensor/assets/Bash_ports.png">
+    <entry file="file://$PROJECT_DIR$/assets/Bash_ports.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/light-sensor/assets/arduino_port_to_select.png">
+    <entry file="file://$PROJECT_DIR$/assets/arduino_port_to_select.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/light-sensor/node-mcu-easy-iot-cloud.ino">
@@ -271,19 +286,28 @@
     <entry file="file://$PROJECT_DIR$/.gitmodules">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/light-sensor/readme.md">
+    <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="270">
+            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
+    <entry file="file://$PROJECT_DIR$/light-sensor/node-mcu-easy-iot-cloud/node-mcu-easy-iot-cloud.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="43" column="38" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="43" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/light-sensor/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="337">
-            <caret line="69" column="20" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
