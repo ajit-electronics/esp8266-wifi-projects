@@ -1,14 +1,14 @@
 ### Connecting node-mcu board to mac
 
-0. STEPS 1-3 are optional trouble-shooting tips
-1. Restart Mac
-2. Press cmd + R - open terminal
-3. Type csrutil disable  
-4 https://github.com/nodemcu/nodemcu-devkit/wiki/Getting-Started-on-OSX 
-5 https://www.instructables.com/id/How-to-Program-NodeMCU-on-Arduino-IDE
-6. Install drivers https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
-7. Restart Mac
-8. A good quality and small nice micro usb wire is required for the mac to detect node-mcu
+1. STEPS 1-3 are optional trouble-shooting tips
+2. Restart Mac
+3. Press cmd + R - open terminal
+4. Type csrutil disable  
+5. https://github.com/nodemcu/nodemcu-devkit/wiki/Getting-Started-on-OSX 
+6. https://www.instructables.com/id/How-to-Program-NodeMCU-on-Arduino-IDE
+7. Install drivers https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
+8. Restart Mac
+9. A good quality and small nice micro usb wire is required for the mac to detect node-mcu
 
 Confirm if the board is detected by mac:
 ![Board and upload speed to select](assets/Bash_ports.png "Board and upload speed to select.")
