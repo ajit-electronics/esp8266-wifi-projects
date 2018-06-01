@@ -4,8 +4,9 @@
 1. Restart Mac
 2. Press cmd + R - open terminal
 3. Type csrutil disable  
-3.1 https://github.com/nodemcu/nodemcu-devkit/wiki/Getting-Started-on-OSX 
-3.2 https://www.instructables.com/id/How-to-Program-NodeMCU-on-Arduino-IDE/
+ 3.1 https://github.com/nodemcu/nodemcu-devkit/wiki/Getting-Started-on-OSX 
+ 
+ 3.2 https://www.instructables.com/id/How-to-Program-NodeMCU-on-Arduino-IDE/
 4. Install drivers https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
 5. Restart Mac
 6. A good quality and small nice micro usb wire is required for the mac to detect node-mcu
@@ -65,4 +66,3 @@ Arduino libs and programs are kind of firmware in itself, that gets flashed to c
 * [ESP8266 Arduino Core wifi Docs](http://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/readme.html)
 * [get mac address of esp board](https://techtutorialsx.com/2017/04/09/esp8266-get-mac-address/)
 * [220 v switch](https://iot-playground.com/blog/2-uncategorised/87-esp8266-internet-connected-switch-easyiot-cloud-mqtt-api-v1-improved)
-* []
