@@ -4,12 +4,11 @@
 1. Restart Mac
 2. Press cmd + R - open terminal
 3. Type csrutil disable  
- 3.1 https://github.com/nodemcu/nodemcu-devkit/wiki/Getting-Started-on-OSX 
- 
- 3.2 https://www.instructables.com/id/How-to-Program-NodeMCU-on-Arduino-IDE/
-4. Install drivers https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
-5. Restart Mac
-6. A good quality and small nice micro usb wire is required for the mac to detect node-mcu
+4 https://github.com/nodemcu/nodemcu-devkit/wiki/Getting-Started-on-OSX 
+5 https://www.instructables.com/id/How-to-Program-NodeMCU-on-Arduino-IDE
+6. Install drivers https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
+7. Restart Mac
+8. A good quality and small nice micro usb wire is required for the mac to detect node-mcu
 
 Confirm if the board is detected by mac:
 ![Board and upload speed to select](assets/Bash_ports.png "Board and upload speed to select.")
