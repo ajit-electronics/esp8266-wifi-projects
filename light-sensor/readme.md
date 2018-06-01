@@ -36,7 +36,7 @@ Todo: fritzing diagram
     while(!client.connect("echo.websocket.org", 80)) {
     Serial.println("connection failed..!!!");
     delay(2000);
-    }*/
+    }
     Serial.println("connection success..!!!");
 ```
 [More detailed example](https://github.com/morrissinger/ESP8266-Websocket/blob/master/examples/WebSocketClient_Demo/WebSocketClient_Demo.ino)
@@ -45,11 +45,14 @@ Todo: fritzing diagram
 [EasyIoT-Cloud@github](https://github.com/iot-playground/EasyIoT-Cloud)
 
 Replace constants:
-#define WIFI_SSID "nereusiphone"
-#define WIFI_PASS "ajit1234"
-#define TOKEN "5SpmyUqPgNWGBEMS3bGI5J6rXDwAtW4FRCRZvkcN"
 
-To start with set existingModuleId to 0 this would create a new module
+ '#define WIFI_SSID "nereusiphone"'
+ 
+ '#define WIFI_PASS "ajit1234"'
+ 
+ '#define TOKEN "5SpmyUqPgNWGBEMS3bGI5J6rXDwAtW4FRCRZvkcN"'
+
+#### To start with set existingModuleId to 0 this would create a new module
 
 ```cpp
 uint existingModuleId = 0; 
