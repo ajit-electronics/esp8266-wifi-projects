@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bd97646-e735-4cf2-848d-722e7d3877aa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/light-sensor/assests/board_setup.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/light-sensor/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/light-sensor/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/light-sensor/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -34,13 +31,18 @@
       <file leaf-file-name="node-mcu-easy-iot-cloud.ino" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/light-sensor/node-mcu-easy-iot-cloud/node-mcu-easy-iot-cloud.ino">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="43" column="38" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="43" selection-end-column="38" />
+            <state relative-caret-position="-1568">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SENSOR_PIN</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -208,12 +210,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527837280296</updated>
-      <workItem from="1527837282307" duration="6719000" />
+      <workItem from="1527837282307" duration="7528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6719000" />
+    <option name="totallyTimeSpent" value="7528000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="832" extended-state="6" />
@@ -229,7 +231,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3292517" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3292517" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20386267" />
@@ -298,16 +300,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/light-sensor/node-mcu-easy-iot-cloud/node-mcu-easy-iot-cloud.ino">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="43" column="38" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="43" selection-end-column="38" />
+        <state relative-caret-position="-1568">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/light-sensor/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
