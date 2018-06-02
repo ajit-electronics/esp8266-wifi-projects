@@ -1,4 +1,4 @@
-## Connection a light sensor to ESP8266 and displaying the readings easy-iot cloud 
+## Connection a light sensor to ESP8266 and displaying the readings at easy-iot cloud 
 
 ### Setup the board
 ![Setting up Board](assests/board_setup.JPG "Setting up Board")

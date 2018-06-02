@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bd97646-e735-4cf2-848d-722e7d3877aa" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/temp-humidity-sensor/get-libs.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-humidity-sensor/node-mcu-easy-iot-cloud/node-mcu-easy-iot-cloud.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp-humidity-sensor/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/light-sensor/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/light-sensor/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,14 +20,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/light-sensor/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="185">
-                <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="node-mcu-easy-iot-cloud.ino" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/temp-humidity-sensor/node-mcu-easy-iot-cloud/node-mcu-easy-iot-cloud.ino">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39">
+              <caret line="174" column="29" selection-start-line="174" selection-start-column="26" selection-end-line="174" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get-libs.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/light-sensor/get-libs.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get-libs.sh" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/temp-humidity-sensor/get-libs.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -31,8 +50,8 @@
       <file leaf-file-name="node-mcu-easy-iot-cloud.ino" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/light-sensor/node-mcu-easy-iot-cloud/node-mcu-easy-iot-cloud.ino">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1568">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="18" />
+            <state relative-caret-position="90">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -42,6 +61,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>SENSOR_PIN</find>
+      <find>pin</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -62,6 +82,8 @@
         <option value="$PROJECT_DIR$/light-sensor/get-libs.sh" />
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/light-sensor/readme.md" />
+        <option value="$PROJECT_DIR$/temp-humidity-sensor/node-mcu-easy-iot-cloud/node-mcu-easy-iot-cloud.ino" />
+        <option value="$PROJECT_DIR$/temp-humidity-sensor/get-libs.sh" />
       </list>
     </option>
   </component>
@@ -96,17 +118,23 @@
             <path>
               <item name="esp8266-wifi-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="esp8266-wifi-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="esp8266-wifi-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="esp8266-wifi-projects" type="462c0819:PsiDirectoryNode" />
               <item name="light-sensor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="esp8266-wifi-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="esp8266-wifi-projects" type="462c0819:PsiDirectoryNode" />
               <item name="light-sensor" type="462c0819:PsiDirectoryNode" />
+              <item name="node-mcu-easy-iot-cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esp8266-wifi-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esp8266-wifi-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="temp-humidity-sensor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esp8266-wifi-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esp8266-wifi-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="temp-humidity-sensor" type="462c0819:PsiDirectoryNode" />
               <item name="node-mcu-easy-iot-cloud" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -126,9 +154,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/temp-humidity-sensor" />
       <recent name="$PROJECT_DIR$/light-sensor/assests" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/temp-humidity-sensor/node-mcu-easy-iot-cloud" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -210,12 +240,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527837280296</updated>
-      <workItem from="1527837282307" duration="7641000" />
+      <workItem from="1527837282307" duration="8813000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7641000" />
+    <option name="totallyTimeSpent" value="8813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="832" extended-state="6" />
@@ -231,10 +261,10 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3292517" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3292517" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20386267" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20386267" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -278,13 +308,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/light-sensor/get-libs.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitmodules">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -298,20 +321,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/light-sensor/node-mcu-easy-iot-cloud/node-mcu-easy-iot-cloud.ino">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1568">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/light-sensor/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="185">
-            <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+          <first_editor relative-caret-position="-370">
+            <caret line="6" selection-start-line="6" selection-end-line="6" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp-humidity-sensor/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/light-sensor/node-mcu-easy-iot-cloud/node-mcu-easy-iot-cloud.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp-humidity-sensor/node-mcu-easy-iot-cloud/node-mcu-easy-iot-cloud.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="174" column="29" selection-start-line="174" selection-start-column="26" selection-end-line="174" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/light-sensor/get-libs.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp-humidity-sensor/get-libs.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
         </state>
       </provider>
     </entry>
