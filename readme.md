@@ -70,3 +70,4 @@ Arduino libs and programs are kind of firmware in itself, that gets flashed to c
 ### List of projects
 
 - [light-sensor](https://ajit-electronics.github.io/esp8266-wifi-projects/light-sensor/)
+- [temp-humidity-sensor](https://ajit-electronics.github.io/esp8266-wifi-projects/temp-humidity-sensor/)
