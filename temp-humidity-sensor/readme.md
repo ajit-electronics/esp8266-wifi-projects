@@ -4,7 +4,7 @@
 ![Node mcu pin out 0.9](assests/NodeMCU_v0.9_Pinout.png "Node mcu pin out 0.9")
 
 ### DHT11 3 and 4 pin layout
-![DHT11 3 anf 4 pin layout](DHT11-Pinout-for-three-pin-and-four-pin-types-2.jpg "DHT11 3 anf 4 pin layout")
+![DHT11 3 anf 4 pin layout](assests/DHT11-Pinout-for-three-pin-and-four-pin-types-2.jpg "DHT11 3 anf 4 pin layout")
 
  
 ### DHT library used
